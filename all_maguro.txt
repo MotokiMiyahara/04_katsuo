@@ -1,0 +1,4 @@
+kind /マグロ/
+category 0,  'S'
+category 50, 'M'
+category 75, 'L'

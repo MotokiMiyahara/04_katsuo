@@ -1,0 +1,5 @@
+kind 'サワラ'
+category 0,  '小'
+category 70, '中'
+category 80, '大'
+category 90, '特大'
