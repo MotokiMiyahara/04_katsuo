@@ -19,6 +19,7 @@
 CSVファイルに、魚の名前と大きさ（整数値、単位はcm）が書かれています。
 
 このファイルを読み込み、“カツオ”の大きさを次のように分類してください。
+
     Sサイズ…50cm未満
 
     Mサイズ…50cm以上、75cm未満
@@ -31,12 +32,9 @@ CSVファイルに、魚の名前と大きさ（整数値、単位はcm）が書
 
 ###【テストデータ】
 
-[katsuo.zip]をダウンロード、展開すると、以下のファイルが含まれています。
+[katsuo.zip]をダウンロード、展開すると、以下のファイルが含まれています。 `answer.txt`
 
-`answer.txt`
-
-解答用テキストファイルです。
-`katsuo10.csv`
+解答用テキストファイルです。 `katsuo10.csv`
 
 サンプルの入力データで、次のように書かれています。
 
@@ -76,7 +74,7 @@ answer.txtに必要事項を記入し、テキストファイルのままアッ�
 ・問題本文だけでなく「解答評価のポイント」「その他注意事項」をよくお読みください。
 
 ### 【出題URL】
-[https://codeiq.jp/challenge_answer/130940](https://codeiq.jp/challenge_answer/130940)
+[https://codeiq.jp/q/832](https://codeiq.jp/q/832)
 
 ## Author
 [MotokiMiyahara](https://github.com/MotokiMiyahara/)
