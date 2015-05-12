@@ -10,7 +10,7 @@
 `./categorize.rb --config=all_maguro.txt data/katsuo1000.csv`
 
 ## 解答
-[answer.txt](/MotokiMiyahara/04_katsuo/blob/master/answer.txt) を参照してください。
+[answer.txt](blob/master/answer.txt) を参照してください。
 
 
 ## 問題文
